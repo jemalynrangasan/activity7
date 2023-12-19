@@ -1,0 +1,74 @@
+.coestyle{
+    margin-right: 25px;
+    text-decoration: none;
+    color: maroon;
+    font-size: 22px;
+    box-shadow: 15px 15px 15px maroon ;
+}
+.ctestyle{
+    margin-right: 25px;
+    text-decoration: none;
+    color:yellow;
+    font-size: 22px;
+    box-shadow: 15px 15px 15px yellow ;
+}
+
+.citstyle{
+    margin-right: 25px;
+    text-decoration: none;
+    color: red;
+    font-size: 22px;
+    box-shadow: 15px 15px 15px red;
+}
+
+.indexstyle{
+    color: yellow;
+}
+.cit{
+    color: aqua;
+}
+.cte{
+    color:blue
+}
+.coe{
+    color: maroon;
+}
+
+a{
+
+    margin-right: 25px;
+    text-decoration: none;   
+    color:white;
+    font-size: 22px; 
+    font-family: Arial; 
+    font-weight: bold;
+           
+}
+p{
+    background-color: darkgreen;
+    padding: 15px;
+    text-align: center;
+    border: 3px solid gold;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 50%;
+    border: 3px solid yellow;
+    border-radius: 50%;
+    box-shadow: 15px 15px 15px red;
+}
+table{
+    border: 1px solid darkgreen;
+    border-collapse:collapse;
+}
+td{
+    border: 1px solid darkgreen;
+    padding: 5px;
+}
+tr:nth-child(even){
+    background-color: khaki;
+}
+tr:nth-child(odd){
+    background-color: red;
+}
